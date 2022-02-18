@@ -6,7 +6,7 @@
 
   <groupId>cloudcomputing.mtech</groupId>
   <artifactId>ccwebapp</artifactId>
-  <version>2.0</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>ccwebapp Maven Webapp</name>
